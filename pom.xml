@@ -16,9 +16,8 @@
 
         <dependency>
             <groupId>org.ow2.asm</groupId>
-            <artifactId>asm</artifactId>
+            <artifactId>asm-all</artifactId>
             <version>5.0.4</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 
